@@ -17,7 +17,7 @@ theme = "tailwind"
   contentTypeName = "posts"
 
   [params.header]
-    logo = "logo.webp"
+    logo = "logo.svg"
     title = "技术.AI.设计"
 
   [params.footer]
