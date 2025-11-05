@@ -2,90 +2,97 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>ZW技术分享</title>
-    <link>/</link>
+    <link>https://zhangluther.github.io/blog_zwtech/</link>
     <description>Recent content on ZW技术分享</description>
     <generator>Hugo</generator>
     <language>cn</language>
     <managingEditor>user@example.com (Hugo Author)</managingEditor>
     <webMaster>user@example.com (Hugo Author)</webMaster>
     <copyright>ZW</copyright>
-    <lastBuildDate>Wed, 05 Nov 2025 13:48:15 +0800</lastBuildDate>
-    <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 05 Nov 2025 17:10:38 +0800</lastBuildDate>
+    <atom:link href="https://zhangluther.github.io/blog_zwtech/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About Me</title>
+      <link>https://zhangluther.github.io/blog_zwtech/about/about-me/</link>
+      <pubDate>Wed, 05 Nov 2025 17:10:38 +0800</pubDate><author>user@example.com (Hugo Author)</author>
+      <guid>https://zhangluther.github.io/blog_zwtech/about/about-me/</guid>
+      <description>&lt;h1 id=&#34;测试研究&#34;&gt;测试研究&lt;/h1&gt;&#xA;&lt;h2 id=&#34;aboutme-about-me&#34;&gt;aboutme about me&lt;/h2&gt;</description>
+    </item>
     <item>
       <title>Hello_world</title>
-      <link>/posts/hello_world/</link>
+      <link>https://zhangluther.github.io/blog_zwtech/posts/hello_world/</link>
       <pubDate>Wed, 05 Nov 2025 13:48:15 +0800</pubDate><author>user@example.com (Hugo Author)</author>
-      <guid>/posts/hello_world/</guid>
+      <guid>https://zhangluther.github.io/blog_zwtech/posts/hello_world/</guid>
       <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;&#xA;&lt;p&gt;This is &lt;strong&gt;bold&lt;/strong&gt; text, and this is &lt;em&gt;emphasized&lt;/em&gt; text.&lt;/p&gt;&#xA;&lt;p&gt;Visit the &lt;a href=&#34;https://gohugo.io&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Hugo&lt;/a&gt;&#xA; website!&lt;/p&gt;</description>
     </item>
     <item>
       <title></title>
-      <link>/manifest.json</link>
+      <link>https://zhangluther.github.io/blog_zwtech/manifest.json</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>user@example.com (Hugo Author)</author>
-      <guid>/manifest.json</guid>
+      <guid>https://zhangluther.github.io/blog_zwtech/manifest.json</guid>
       <description></description>
     </item>
     <item>
       <title></title>
-      <link>/search/_index.de/</link>
+      <link>https://zhangluther.github.io/blog_zwtech/search/_index.de/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>user@example.com (Hugo Author)</author>
-      <guid>/search/_index.de/</guid>
+      <guid>https://zhangluther.github.io/blog_zwtech/search/_index.de/</guid>
       <description></description>
     </item>
     <item>
       <title></title>
-      <link>/search/_index.es/</link>
+      <link>https://zhangluther.github.io/blog_zwtech/search/_index.es/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>user@example.com (Hugo Author)</author>
-      <guid>/search/_index.es/</guid>
+      <guid>https://zhangluther.github.io/blog_zwtech/search/_index.es/</guid>
       <description></description>
     </item>
     <item>
       <title></title>
-      <link>/search/_index.fr/</link>
+      <link>https://zhangluther.github.io/blog_zwtech/search/_index.fr/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>user@example.com (Hugo Author)</author>
-      <guid>/search/_index.fr/</guid>
+      <guid>https://zhangluther.github.io/blog_zwtech/search/_index.fr/</guid>
       <description></description>
     </item>
     <item>
       <title></title>
-      <link>/search/_index.hi/</link>
+      <link>https://zhangluther.github.io/blog_zwtech/search/_index.hi/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>user@example.com (Hugo Author)</author>
-      <guid>/search/_index.hi/</guid>
+      <guid>https://zhangluther.github.io/blog_zwtech/search/_index.hi/</guid>
       <description></description>
     </item>
     <item>
       <title></title>
-      <link>/search/_index.jp/</link>
+      <link>https://zhangluther.github.io/blog_zwtech/search/_index.jp/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>user@example.com (Hugo Author)</author>
-      <guid>/search/_index.jp/</guid>
+      <guid>https://zhangluther.github.io/blog_zwtech/search/_index.jp/</guid>
       <description></description>
     </item>
     <item>
       <title></title>
-      <link>/search/_index.nl/</link>
+      <link>https://zhangluther.github.io/blog_zwtech/search/_index.nl/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>user@example.com (Hugo Author)</author>
-      <guid>/search/_index.nl/</guid>
+      <guid>https://zhangluther.github.io/blog_zwtech/search/_index.nl/</guid>
       <description></description>
     </item>
     <item>
       <title></title>
-      <link>/search/_index.pl/</link>
+      <link>https://zhangluther.github.io/blog_zwtech/search/_index.pl/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>user@example.com (Hugo Author)</author>
-      <guid>/search/_index.pl/</guid>
+      <guid>https://zhangluther.github.io/blog_zwtech/search/_index.pl/</guid>
       <description></description>
     </item>
     <item>
       <title></title>
-      <link>/search/_index.ru/</link>
+      <link>https://zhangluther.github.io/blog_zwtech/search/_index.ru/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>user@example.com (Hugo Author)</author>
-      <guid>/search/_index.ru/</guid>
+      <guid>https://zhangluther.github.io/blog_zwtech/search/_index.ru/</guid>
       <description></description>
     </item>
     <item>
       <title></title>
-      <link>/search/_index.zh-cn/</link>
+      <link>https://zhangluther.github.io/blog_zwtech/search/_index.zh-cn/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>user@example.com (Hugo Author)</author>
-      <guid>/search/_index.zh-cn/</guid>
+      <guid>https://zhangluther.github.io/blog_zwtech/search/_index.zh-cn/</guid>
       <description></description>
     </item>
   </channel>

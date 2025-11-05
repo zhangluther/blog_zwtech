@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Abouts on ZW技术分享</title>
+    <link>https://zhangluther.github.io/blog_zwtech/about/</link>
+    <description>Recent content in Abouts on ZW技术分享</description>
+    <generator>Hugo</generator>
+    <language>cn</language>
+    <managingEditor>user@example.com (Hugo Author)</managingEditor>
+    <webMaster>user@example.com (Hugo Author)</webMaster>
+    <copyright>ZW</copyright>
+    <lastBuildDate>Wed, 05 Nov 2025 17:10:38 +0800</lastBuildDate>
+    <atom:link href="https://zhangluther.github.io/blog_zwtech/about/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About Me</title>
+      <link>https://zhangluther.github.io/blog_zwtech/about/about-me/</link>
+      <pubDate>Wed, 05 Nov 2025 17:10:38 +0800</pubDate><author>user@example.com (Hugo Author)</author>
+      <guid>https://zhangluther.github.io/blog_zwtech/about/about-me/</guid>
+      <description>&lt;h1 id=&#34;测试研究&#34;&gt;测试研究&lt;/h1&gt;&#xA;&lt;h2 id=&#34;aboutme-about-me&#34;&gt;aboutme about me&lt;/h2&gt;</description>
+    </item>
+  </channel>
+</rss>
