@@ -2,48 +2,48 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://example.com/posts/</loc>
+    <loc>/posts/</loc>
     <lastmod>2025-11-05T13:48:15+08:00</lastmod>
   </url><url>
-    <loc>https://example.com/</loc>
+    <loc>/</loc>
     <lastmod>2025-11-05T13:48:15+08:00</lastmod>
   </url><url>
-    <loc>https://example.com/manifest.json</loc>
+    <loc>/manifest.json</loc>
   </url><url>
-    <loc>https://example.com/search/_index.de/</loc>
+    <loc>/search/_index.de/</loc>
     <priority>0.1</priority>
   </url><url>
-    <loc>https://example.com/search/</loc>
+    <loc>/search/</loc>
     <priority>0.1</priority>
   </url><url>
-    <loc>https://example.com/search/_index.es/</loc>
+    <loc>/search/_index.es/</loc>
     <priority>0.1</priority>
   </url><url>
-    <loc>https://example.com/search/_index.fr/</loc>
+    <loc>/search/_index.fr/</loc>
     <priority>0.1</priority>
   </url><url>
-    <loc>https://example.com/search/_index.hi/</loc>
+    <loc>/search/_index.hi/</loc>
     <priority>0.1</priority>
   </url><url>
-    <loc>https://example.com/search/_index.jp/</loc>
+    <loc>/search/_index.jp/</loc>
     <priority>0.1</priority>
   </url><url>
-    <loc>https://example.com/search/_index.nl/</loc>
+    <loc>/search/_index.nl/</loc>
     <priority>0.1</priority>
   </url><url>
-    <loc>https://example.com/search/_index.pl/</loc>
+    <loc>/search/_index.pl/</loc>
     <priority>0.1</priority>
   </url><url>
-    <loc>https://example.com/search/_index.ru/</loc>
+    <loc>/search/_index.ru/</loc>
     <priority>0.1</priority>
   </url><url>
-    <loc>https://example.com/search/_index.zh-cn/</loc>
+    <loc>/search/_index.zh-cn/</loc>
     <priority>0.1</priority>
   </url><url>
-    <loc>https://example.com/categories/</loc>
+    <loc>/categories/</loc>
   </url><url>
-    <loc>https://example.com/series/</loc>
+    <loc>/series/</loc>
   </url><url>
-    <loc>https://example.com/tags/</loc>
+    <loc>/tags/</loc>
   </url>
 </urlset>
