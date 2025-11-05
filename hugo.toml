@@ -1,6 +1,6 @@
-# baseURL = "https://zhangluther.github.io/blog_zwtech"
-relativeURLs = true
-baseURL = "/"
+baseURL = "https://zhangluther.github.io/blog_zwtech"
+# relativeURLs = true
+# baseURL = "/"
 title = "ZW技术分享"
 author = "ZW"
 copyright = "ZW"
